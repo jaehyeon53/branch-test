@@ -1,5 +1,11 @@
 first edition
 second edition
+<<<<<<< HEAD
 third edition
 issue resolved
 hotfix my solution
+=======
+third edition 
+issue resolved
+hotfitx team's solution
+>>>>>>> origin/main
